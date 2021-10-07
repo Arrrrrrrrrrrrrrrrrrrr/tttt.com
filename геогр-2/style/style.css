@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+}
+
+.russian {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 60px;
+}
+
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+body {
+    background-image: url('../img/9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(34, 31, 31);
+}
